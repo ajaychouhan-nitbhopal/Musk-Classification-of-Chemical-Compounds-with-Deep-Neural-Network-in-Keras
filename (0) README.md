@@ -4,7 +4,7 @@ This is a Classifier model for Musk classification of Organic Chemical Compounds
 
 ## Dataset Overview
 
-he given dataset contains details about organic chemical compounds including their chemical features, isomeric conformation, names and the classes in which they are classified. The compounds are classified as either ‘Musk’ or ‘Non-Musk’ compounds.  There are 166 Chemical features are presented for each compound.
+The given dataset contains details about organic chemical compounds including their chemical features, isomeric conformation, names and the classes in which they are classified. The compounds are classified as either ‘Musk’ or ‘Non-Musk’ compounds.  There are 166 Chemical features presented for each compound.
 
 ## Model Overview
 
