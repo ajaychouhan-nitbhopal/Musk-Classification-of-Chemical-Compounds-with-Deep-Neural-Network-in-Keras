@@ -19,11 +19,11 @@ Sequential Layer model of 4 Hidden layers [100,50,50,50] is used in Deep Neural 
 After 48 epochs Training Accuracy and Validation Accuracy became constant at 1.00 and 0.9992, respectively. 
 
 Following Metrices are achieved by training the model:
-f1 score: 0.9976019184652278
-precision: 1.0
-recall: 0.9952153110047847
-Validation Loss: 0.001435200567357242
-Validation Accuracy: 0.9992424249649048
+1. f1 score: 0.9976019184652278
+2. precision: 1.0
+3. recall: 0.9952153110047847
+4. Validation Loss: 0.001435200567357242
+5. Validation Accuracy: 0.9992424249649048
 
 ## Graphs
 ### Model Accuracy
