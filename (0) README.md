@@ -27,10 +27,10 @@ Following Metrices are achieved by training the model:
 
 ## Graphs
 ### Model Accuracy
-![Model Accuracy](https://github.com/ajaychouhan-nitbhopal/Musk-Classification-of-Chemical-Compounds-with-Deep-Neural-Network-in-Keras-on-GPU/blob/main/(4)_Model_Accuracy.jpg?raw=true)
+![](https://github.com/ajaychouhan-nitbhopal/Musk-Classification-of-Chemical-Compounds-with-Deep-Neural-Network-in-Keras-on-GPU/blob/main/(4)%20Model%20Accuracy.jpg?raw=true)
 
 ### Model Loss
-![Model Loss](https://github.com/ajaychouhan-nitbhopal/Musk-Classification-of-Chemical-Compounds-with-Deep-Neural-Network-in-Keras-on-GPU/blob/main/(5)_Model_Loss.jpg?raw=true)
+![](https://github.com/ajaychouhan-nitbhopal/Musk-Classification-of-Chemical-Compounds-with-Deep-Neural-Network-in-Keras-on-GPU/blob/main/(5)%20Model%20Loss.jpg?raw=true)
 
 
 ## Dependencies
