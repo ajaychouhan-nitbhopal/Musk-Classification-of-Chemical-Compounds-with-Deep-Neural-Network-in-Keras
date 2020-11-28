@@ -27,10 +27,10 @@ Validation Accuracy: 0.9992424249649048
 
 ## Graphs
 ### Model Accuracy
-![Model Accuracy](https://github.com/ajaychouhan-nitbhopal/Musk-Classification-of-Chemical-Compounds-with-Deep-Neural-Network-in-Keras-on-GPU/blob/main/(4) Model Accuracy.jpg?raw=true)
+![Model Accuracy](https://github.com/ajaychouhan-nitbhopal/Musk-Classification-of-Chemical-Compounds-with-Deep-Neural-Network-in-Keras-on-GPU/blob/main/(4)_Model_Accuracy.jpg?raw=true)
 
 ### Model Loss
-![Model Loss](https://github.com/ajaychouhan-nitbhopal/Musk-Classification-of-Chemical-Compounds-with-Deep-Neural-Network-in-Keras-on-GPU/blob/main/(5) Model Loss.jpg?raw=true)
+![Model Loss](https://github.com/ajaychouhan-nitbhopal/Musk-Classification-of-Chemical-Compounds-with-Deep-Neural-Network-in-Keras-on-GPU/blob/main/(5)_Model_Loss.jpg?raw=true)
 
 
 ## Dependencies
